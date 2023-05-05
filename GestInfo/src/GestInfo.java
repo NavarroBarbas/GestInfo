@@ -9,7 +9,6 @@ public class GestInfo {
 			
 			Scanner teclado = new Scanner(System.in);
 			boolean estado = true;
-			
 			while(estado) {
 				System.out.println("******** MENÚ ********\n");
 				System.out.println("1. Listar Ordenadores");
